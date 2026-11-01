@@ -54,3 +54,5 @@ qdrant_storage/
 
 # Generated logs
 *.log
+
+data/ABO/
