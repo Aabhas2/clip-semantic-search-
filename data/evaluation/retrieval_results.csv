@@ -1,0 +1,61 @@
+query,rank,item_id,product_type,title,score,image_path
+a black handbag,1,B081HMLLBR,HANDBAG,Nia & Nicole Women's Handbag (Navy Blue),0.30643937277470185,data/ABO/abo-images-small/images/small/0f/0fa0e93d.jpg
+a black handbag,2,B000R5H79K,CELLULAR_PHONE_CASE,Rivet The Wrap Fashion Case for Mobile Phones,0.3048613825035017,data/ABO/abo-images-small/images/small/5c/5c4c18c9.jpg
+a black handbag,3,B07WRJFTRK,HANDBAG,Flavia Women's Handbag (Black),0.3016345355561461,data/ABO/abo-images-small/images/small/c4/c4270338.jpg
+a black handbag,4,B06X17B2N4,HANDBAG,"The Lovely bolsa Co. - Bolera de nailon con asa superior a rayas en contraste con pompones de piel sintética para mujer, Bolero de nailon con pompón de pelo a rayas de color",0.29639846201502773,data/ABO/abo-images-small/images/small/ad/add5ebec.jpg
+a black handbag,5,B08F9ZWWXP,HANDBAG,WindTook Small Crossbody Bag for Women Shoulder Bags Ladies Purses Clutch Bag for Girls Party Outdoor(WT-020 Black),0.2939357548005505,data/ABO/abo-images-small/images/small/f9/f9bd13ce.jpg
+a blue phone case,1,B082DNQR4W,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Samsung Galaxy M10s / Samsung Galaxy A20 / Samsung Galaxy A30 (Transparent),0.33341003463523333,data/ABO/abo-images-small/images/small/bb/bb646221.jpg
+a blue phone case,2,B08562DD6Z,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Realme C3 (Transparent),0.30927960855731507,data/ABO/abo-images-small/images/small/b6/b6637466.jpg
+a blue phone case,3,B079J6N6PK,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Mobile Cover (Soft & Flexible Back case) for Nokia 6 (Blue),0.3047978565422666,data/ABO/abo-images-small/images/small/90/909c561c.jpg
+a blue phone case,4,B07VXRRB3J,CELLULAR_PHONE_CASE,"Amazon Brand - Solimo Redmi 7A Mobile Cover (Hard Back & Slim),Blue",0.3032700738680683,data/ABO/abo-images-small/images/small/b4/b491d416.jpg
+a blue phone case,5,B004I8WD7S,CELLULAR_PHONE_CASE,AmazonBasics Protective TPU Case with Screen Protector for iPhone 4 and iPhone 4S - Smoke,0.3024218330941354,data/ABO/abo-images-small/images/small/45/45b20857.jpg
+modern furniture,1,B07HPDV36G,CHAIR,Movian Andre Accent Sofa - Light Grey,0.30525865140389463,data/ABO/abo-images-small/images/small/29/291f3e4f.jpg
+modern furniture,2,B001BQKT3K,HOME_FURNITURE_AND_DECOR,Pinzon Cress Collection,0.2981342095271951,data/ABO/abo-images-small/images/small/ba/bac4ce83.jpg
+modern furniture,3,B07JVP2C7M,CHAIR,Amazon merk - Movian City Club Module,0.29556516475896977,data/ABO/abo-images-small/images/small/fa/fa97ecd1.jpg
+modern furniture,4,B001RTS5B4,CHAIR,Strathwood Balboa Chaise Lounge Garnet Spun Polyester Cushion # F336J70B-9Q1,0.2935916172182571,data/ABO/abo-images-small/images/small/01/01d8c371.jpg
+modern furniture,5,B07J55B89H,CHAIR,Movian Andromeda 2 Seater Grey,0.2932127440497201,data/ABO/abo-images-small/images/small/c2/c2a3d4d5.jpg
+home decor,1,B076VC9T9V,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo Wall Sticker for Bed Room (Fall in Love, Ideal Size on Wall - 115 cm x 110 cm)",0.2657641506425233,data/ABO/abo-images-small/images/small/af/af133506.jpg
+home decor,2,B08FHMSF6C,HOME,"UMI. Seide Bettwäsche-Set 2 teilig Bettbezug 135x200cm Kissenbezug 80x80cm, Hypoallergen 19 Momme Maulbeerseide Bettwäsche Smaragdgrün",0.2600101326094684,data/ABO/abo-images-small/images/small/64/64657c21.jpg
+home decor,3,B08FH56JHR,HOME,"UMI. Seide Bettwäsche-Set 2 teilig Bettbezug 155x220cm Kissenbezug 80x80cm, Hypoallergen 19 Momme Maulbeerseide Bettwäsche Grau",0.25996807697149027,data/ABO/abo-images-small/images/small/62/62412947.jpg
+home decor,4,B085FBPWXT,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Movian - Juego de 3 cubos modulares, 35 x 35 x 28 cm, gris oscuro",0.2546412975782704,data/ABO/abo-images-small/images/small/45/4563bb70.jpg
+home decor,5,B08FHLLWQC,HOME,"UMI. Seide Bettwäsche-Set 2 teilig Bettbezug 135x200cm Kissenbezug 80x80cm, Hypoallergen 19 Momme Maulbeerseide Bettwäsche Holzkohle",0.2545001693592987,data/ABO/abo-images-small/images/small/c1/c120774a.jpg
+comfortable running shoes,1,B083PGXKB9,SANDAL,"Amazon Essentials Bobbi, Sandals Mixte bébé",0.27356881467588323,data/ABO/abo-images-small/images/small/0e/0efdc8b1.jpg
+comfortable running shoes,2,B07QJ32BFN,SANDAL,"The Drop Women's Cross Strap Flat Slide Sandal, Black, 7 M US",0.273566285224148,data/ABO/abo-images-small/images/small/89/894f704b.jpg
+comfortable running shoes,3,B082BY6R1W,SANDAL,"Amazon Essentials Bobbi Sandals, Gris, 10 Toddler",0.27251478940126295,data/ABO/abo-images-small/images/small/17/17cbbecb.jpg
+comfortable running shoes,4,B083SFKPV4,SANDAL,"Amazon Essentials Baylee, Sandals Homme",0.27070720475734494,data/ABO/abo-images-small/images/small/52/521bd904.jpg
+comfortable running shoes,5,B0797F2TB8,SANDAL,"STARTER Performance Slide Sandalia para Hombre, Exclusiva de Amazon, Equipo Azul Marino, 7 Standard US",0.2681371956489993,data/ABO/abo-images-small/images/small/68/68e1b27b.jpg
+a red handbag,1,B081HMPHW9,HANDBAG,Nia & Nicole Women's Handbag (Dark Peach),0.3100490736123557,data/ABO/abo-images-small/images/small/2a/2ae1cd41.jpg
+a red handbag,2,B072JFB4PT,HANDBAG,"Amazon Brand - The Fix Cora Studded Leather Flat Clutch with Tasseled Zipper, Wine",0.2983953145576135,data/ABO/abo-images-small/images/small/55/5556aab0.jpg
+a red handbag,3,B082WXT5RQ,HOME,"EONO Tote Bags Reusable Shopping Bag Eco-Friendly Recycled Cotton Fabric Handbag Grocery Shoulder Plain Canvas Tote Bags for Women, Men, Girls - Red | 0412 - Pack of 2",0.2977824596749403,data/ABO/abo-images-small/images/small/95/95e722f6.jpg
+a red handbag,4,B081HN73LS,HANDBAG,Nia & Nicole Women's Handbag (Dark Peach),0.2971272671821233,data/ABO/abo-images-small/images/small/3f/3f349a22.jpg
+a red handbag,5,B081HN1K5G,HANDBAG,Nia & Nicole Women's Handbag (Dark Peach),0.2830823415764015,data/ABO/abo-images-small/images/small/12/12e45e82.jpg
+a transparent phone case,1,B082DNQR4W,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Samsung Galaxy M10s / Samsung Galaxy A20 / Samsung Galaxy A30 (Transparent),0.3130958829612253,data/ABO/abo-images-small/images/small/bb/bb646221.jpg
+a transparent phone case,2,B084978DK5,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Mi Redmi 4A (Transparent) ZC,0.3099981785899014,data/ABO/abo-images-small/images/small/12/12298343.jpg
+a transparent phone case,3,B07XPFVMD3,CELLULAR_PHONE_CASE,AmazonBasics Coque de protection en TPU avec film protecteur d'écran pour iPhone 4 et iPhone 4S Gris fumé,0.30657038395389036,data/ABO/abo-images-small/images/small/e4/e43ab5e0.jpg
+a transparent phone case,4,B004I8WD7S,CELLULAR_PHONE_CASE,AmazonBasics Protective TPU Case with Screen Protector for iPhone 4 and iPhone 4S - Smoke,0.3033180752751697,data/ABO/abo-images-small/images/small/45/45b20857.jpg
+a transparent phone case,5,B07XVP481Z,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Xiaomi Redmi 4 (Transparent),0.30205328994451464,data/ABO/abo-images-small/images/small/35/358fa1d5.jpg
+a dining chair,1,B0011MU12I,CHAIR,"Pinzon Ellington Wood Back Dining Chair, Dark Brown Vinyl, Java",0.32504192697126477,data/ABO/abo-images-small/images/small/8c/8cfc0b4b.jpg
+a dining chair,2,B0011MZHA4,CHAIR,"Pinzon Ellington Dining Chair, Cream Vinyl, Java",0.3230789286056889,data/ABO/abo-images-small/images/small/31/3159fcc7.jpg
+a dining chair,3,B001BQ1PWY,CHAIR,"Pinzon Kinzie Leather Dining Chair, Black, Set of 2",0.3196496227145787,data/ABO/abo-images-small/images/small/3f/3f9b85f1.jpg
+a dining chair,4,B0006Q5UUI,CHAIR,Strathwood Basic Elements Folding Chair (Set of 2),0.31285418357343964,data/ABO/abo-images-small/images/small/1f/1fd07949.jpg
+a dining chair,5,B000CD3M3W,CHAIR,Strathwood Mercer Collection Malas Hardwood Side Chair,0.31138007539227686,data/ABO/abo-images-small/images/small/33/3359ced6.jpg
+bedroom decoration,1,B08FH56JHR,HOME,"UMI. Seide Bettwäsche-Set 2 teilig Bettbezug 155x220cm Kissenbezug 80x80cm, Hypoallergen 19 Momme Maulbeerseide Bettwäsche Grau",0.28586178064889994,data/ABO/abo-images-small/images/small/62/62412947.jpg
+bedroom decoration,2,B001BQTU76,HOME_FURNITURE_AND_DECOR,Pinzon Kips Bay Mahogany Bedroom Collection,0.2852340854875312,data/ABO/abo-images-small/images/small/6e/6ec1b397.jpg
+bedroom decoration,3,B076VC9T9V,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo Wall Sticker for Bed Room (Fall in Love, Ideal Size on Wall - 115 cm x 110 cm)",0.2846697233143143,data/ABO/abo-images-small/images/small/af/af133506.jpg
+bedroom decoration,4,B08FHM7GSP,HOME,"UMI. Seidenbettwäsche Set 2 teilig, Seide Bettbezug 155 x 220 cm und Kissenbezug 40 x 80 cm aus 100% Reine Seide 19 Momme Rosa",0.27324961581061946,data/ABO/abo-images-small/images/small/cb/cb98c68f.jpg
+bedroom decoration,5,B08FHLKQVK,HOME,"UMI. Seidenbettwäsche Set 2 teilig, Seide Bettbezug 135 x 200 cm und Kissenbezug 40 x 80 cm aus 100% Reine Seide 19 Momme Schwarz",0.2730807878290172,data/ABO/abo-images-small/images/small/94/94b8b51c.jpg
+black sandals,1,B06XH3DLSG,SANDAL,"Amazon-merk - vinden. Dames enkelband hakken,Zwart,4 UK",0.294349094876422,data/ABO/abo-images-small/images/small/36/36f2002d.jpg
+black sandals,2,B07MHHWT1M,SANDAL,"find. Tie Up Sandal Sandalias con Punta Abierta, Negro Black, 40 EU",0.2935137012953274,data/ABO/abo-images-small/images/small/a5/a5421891.jpg
+black sandals,3,B07NQ46MVV,SANDAL,"Amazon Essentials Sox Sandals, Cruz V2 Fresh Foam, 9.5 M US",0.2883984219959498,data/ABO/abo-images-small/images/small/c2/c2257b77.jpg
+black sandals,4,B07H5YY9PM,SHOES,"Jenny Ballina 2256404 Sandales Bride cheville, (Schwarz 71), 39 EU",0.28550248948463314,data/ABO/abo-images-small/images/small/03/03cd149e.jpg
+black sandals,5,B07QCQZ2MJ,SANDAL,"The Drop Women's Block Heeled Strappy Sandal, Black, 8 M US",0.2854946063234951,data/ABO/abo-images-small/images/small/7b/7b70839c.jpg
+a small crossbody bag,1,B072JFB4PT,HANDBAG,"Amazon Brand - The Fix Cora Studded Leather Flat Clutch with Tasseled Zipper, Wine",0.3056159059548514,data/ABO/abo-images-small/images/small/55/5556aab0.jpg
+a small crossbody bag,2,B06VTHSQ8Z,HANDBAG,The Lovely Tote Co. womens standard Flat Pu Crossbody Bag With Zipper Closure,0.29339945110699245,data/ABO/abo-images-small/images/small/96/9680b7c1.jpg
+a small crossbody bag,3,B07WRJFZGC,HANDBAG,Flavia Women's Handbag (Pink),0.292201431754429,data/ABO/abo-images-small/images/small/a6/a636d114.jpg
+a small crossbody bag,4,B07XBSC75J,HANDBAG,Nia & Nicole Women's Sling Bag (Peach),0.29122363599865875,data/ABO/abo-images-small/images/small/a7/a7e5fc0c.jpg
+a small crossbody bag,5,B06X17B2N4,HANDBAG,"The Lovely Tote Co. Women's Contrast-Stripe Nylon Top Handle Bowler with Faux-Fur Pom Charm,",0.2908053172320616,data/ABO/abo-images-small/images/small/25/25a96b61.jpg
+a sofa for a living room,1,B0015KHTTE,HOME_FURNITURE_AND_DECOR,Pinzon Barkhamstead Furniture Collection,0.3197176441749215,data/ABO/abo-images-small/images/small/25/259e74e5.jpg
+a sofa for a living room,2,B000I5ZV1A,HOME_FURNITURE_AND_DECOR,"Pinzon Hamden Cocktail Ottoman, Walnut",0.30495935202709706,data/ABO/abo-images-small/images/small/59/5957ca1f.jpg
+a sofa for a living room,3,B07J55B89H,CHAIR,Movian Andromeda 2 Seater Grey,0.3045051647800918,data/ABO/abo-images-small/images/small/c2/c2a3d4d5.jpg
+a sofa for a living room,4,B0015MG3OE,HOME_FURNITURE_AND_DECOR,Pinzon by Crypton Furniture Collection,0.30401632438143655,data/ABO/abo-images-small/images/small/a2/a2934a30.jpg
+a sofa for a living room,5,B001RTS5B4,CHAIR,Strathwood Balboa Chaise Lounge Garnet Spun Polyester Cushion # F336J70B-9Q1,0.30385437867354265,data/ABO/abo-images-small/images/small/01/01d8c371.jpg

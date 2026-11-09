@@ -74,7 +74,14 @@ class VectorStore:
             limit=limit, 
             with_payload=True, 
         )
-        return search_result.points
+        return [
+            {
+                "id": point.id, 
+                "score": point.score, 
+                **(point.payload or {}), 
+            }
+            for point in search_result.points 
+        ]
 
     def close(self) -> None: 
         self.client.close() 
