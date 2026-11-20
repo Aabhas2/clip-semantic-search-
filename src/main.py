@@ -5,25 +5,52 @@ from fastapi import FastAPI, File, HTTPException, UploadFile
 from pydantic import BaseModel, Field 
 from pathlib import Path
 
+from copy import deepcopy 
+
+from fastapi.middleware.cors import CORSMiddleware 
+from fastapi.staticfiles import StaticFiles
+
+from src.config import (
+    API_PUBLIC_URL, 
+    IMAGE_ROOT, 
+    QDRANT_COLLECTION_NAME, 
+    QDRANT_STORAGE_PATH, 
+    QDRANT_URL, 
+)
+
 from io import BytesIO 
 from PIL import Image, UnidentifiedImageError
 
 from src.embedder import Embedder 
 from src.vector_store import VectorStore 
 
-PROJECT_ROOT = Path(__file__).resolve().parents[1] 
-
 embedder = Embedder() 
 
 vector_store = VectorStore(
-    storage_path=str(PROJECT_ROOT / "qdrant_storage") , 
-    collection_name="abo_products", 
+    storage_path=str(QDRANT_STORAGE_PATH) if not QDRANT_URL else None, 
+    qdrant_url=QDRANT_URL or None, 
+    collection_name=QDRANT_COLLECTION_NAME, 
     vector_size=512, 
 )
+
 
 app = FastAPI(
     title="CLIP Semantic Search API", 
     version="0.1.0", 
+)
+
+app.add_middleware(
+    CORSMiddleware, 
+    allow_origins=["*"], 
+    allow_credentials=False, 
+    allow_methods=["*"], 
+    allow_headers=["*"], 
+)
+
+app.mount(
+    "/images", 
+    StaticFiles(directory=str(IMAGE_ROOT)), 
+    name="images", 
 )
 
 class TextEmbeddingRequest(BaseModel): 
@@ -41,6 +68,26 @@ class SearchResponse(BaseModel):
 @app.get("/health") 
 def health() -> dict[str, str]: 
     return {"status": "ok"}
+
+def add_image_url(result: dict) -> dict: 
+    stored_path = Path(result["image_path"]) 
+
+    marker = Path("data/ABO/abo-images-small/images/small") 
+
+    try: 
+        relative_path = stored_path.relative_to(marker) 
+    except ValueError as error: 
+        raise HTTPException(
+            status_code=500, 
+            detail="Search result contains an unexpected image path.", 
+        ) from error 
+
+    updated_result = deepcopy(result)  
+    updated_result["image_url"] = (
+        f"{API_PUBLIC_URL.rstrip('/')}/images/{relative_path.as_posix()}" 
+    )
+
+    return updated_result
 
 # Search endpoint 
 @app.post("/search", response_model=SearchResponse) 
@@ -68,7 +115,7 @@ def search(request: SearchRequest) -> SearchResponse:
 
     return SearchResponse(
         query=request.query, 
-        results=results, 
+        results=[add_image_url(result) for result in results], 
     )
 
 # /embed/text endpoint 

@@ -4,11 +4,25 @@ from qdrant_client import QdrantClient
 from qdrant_client.models import VectorParams, Distance 
 
 class VectorStore: 
-    def __init__(self, storage_path: str, collection_name: str, vector_size: int):
+    def __init__(
+        self, 
+        storage_path: str | None, 
+        collection_name: str, 
+        vector_size: int, 
+        qdrant_url: str | None = None, 
+    ):
         self.storage_path = storage_path 
         self.collection_name = collection_name 
-        self.vector_size = vector_size
-        self.client = QdrantClient(path=storage_path) 
+        self.vector_size = vector_size 
+
+        if qdrant_url: 
+            self.client = QdrantClient(url=qdrant_url) 
+        elif storage_path: 
+            self.client = QdrantClient(path=storage_path) 
+        else: 
+            raise ValueError(
+                "Either qdrant_url or storage_path must be provided."
+            )
 
     def create_collection(self) -> None: 
         self.client.create_collection(
