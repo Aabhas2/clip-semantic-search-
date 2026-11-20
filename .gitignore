@@ -56,3 +56,5 @@ qdrant_storage/
 *.log
 
 data/ABO/
+# Expanded local Qdrant storage
+qdrant_storage_4500/
