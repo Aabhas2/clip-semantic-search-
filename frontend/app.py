@@ -1,8 +1,11 @@
 import requests
 import streamlit as st
+import os 
 
-
-API_URL = "http://127.0.0.1:8000"
+API_URL = os.getenv(
+    "API_URL", 
+    "http://127.0.0.1:8000", 
+).rstrip("/")
 
 
 st.set_page_config(
@@ -54,11 +57,11 @@ if search_clicked:
 
                 for column, result in zip(columns, results):
                     with column:
-                        image_path = result["image_path"]
+                        image_url = result["image_url"] 
 
                         st.image(
-                            image_path,
-                            use_container_width=True,
+                            image_url, 
+                            use_container_width=True, 
                         )
 
                         st.write(
