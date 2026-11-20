@@ -1,0 +1,13 @@
+.git
+.gitignore
+.venv
+__pycache__
+*.pyc
+.ipynb_checkpoints
+notebooks
+qdrant_storage
+qdrant_storage_4500
+data/ABO
+data/evaluation
+frontend/.streamlit
+.pytest_cache
