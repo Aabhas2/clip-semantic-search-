@@ -1,0 +1,5 @@
+query_category,precision_at_5
+abstract,0.96
+attribute,0.98
+functional,0.96
+literal,0.98

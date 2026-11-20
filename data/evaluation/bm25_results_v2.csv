@@ -1,0 +1,201 @@
+query,query_category,rank,item_id,product_type,title,image_path,score
+red handbag,literal,1,B081HNQDLT,HANDBAG,Nia & Nicole Women's Handbag (Navy Blue:: Red),data/ABO/abo-images-small/images/small/ab/ab7349eb.jpg,7.519106132384017
+red handbag,literal,2,B071VXFHKG,SHOES,Red WAGON jongens platte sneakers,data/ABO/abo-images-small/images/small/49/493c111d.jpg,7.189435565216515
+red handbag,literal,3,B071XMMLY2,BOOT,Amazon-merk: RED WAGON Desert Boots,data/ABO/abo-images-small/images/small/9f/9fc472a8.jpg,7.189435565216515
+red handbag,literal,4,B07222L36Q,BOOT,"RED WAGON Botines de Ante para Niñas, Rojo (Red), 34.5 EU",data/ABO/abo-images-small/images/small/b4/b4e1fb9e.jpg,7.036016177147252
+red handbag,literal,5,B0732TTZN9,BOOT,Amazon Brand - RED WAGON Girls’ Boots,data/ABO/abo-images-small/images/small/47/47012c29.jpg,6.858744522450541
+black handbag,literal,1,B06W2HCGQ2,HANDBAG,"The Fix Avery Studded Top Flap Suede Backpack, Black",data/ABO/abo-images-small/images/small/90/90b8f151.jpg,5.705175080302298
+black handbag,literal,2,B078TC2LTX,HANDBAG,"Amazon Brand - The Fix Alexandria Leather Crossbody Bag, black",data/ABO/abo-images-small/images/small/a3/a3ee3ef6.jpg,5.563832924450299
+black handbag,literal,3,B01KP0P7BG,HANDBAG,AmazonBasics 17.3-Inch Laptop and Tablet Case,data/ABO/abo-images-small/images/small/f8/f867e8aa.jpg,5.43873267326642
+black handbag,literal,4,B074CSRSPK,HANDBAG,Amazon Brand - The Fix Zoe Studded Metallic Bowler Satchel,data/ABO/abo-images-small/images/small/02/020e71f6.jpg,4.489672361087782
+black handbag,literal,5,B06XPF6V5G,HANDBAG,"Amazon Brand - The Fix Bailee Color Block Top Handle Satchel Bag, Black",data/ABO/abo-images-small/images/small/9f/9fbec3bb.jpg,4.129383128598345
+blue phone case,literal,1,B08562DD6Z,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Realme C3 (Transparent),data/ABO/abo-images-small/images/small/b6/b6637466.jpg,6.875684431097698
+blue phone case,literal,2,B08562CHHV,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Oppo F15 (Transparent),data/ABO/abo-images-small/images/small/c9/c9815d4b.jpg,6.875684431097698
+blue phone case,literal,3,B07XVPYKS3,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Oppo A3s (Transparent),data/ABO/abo-images-small/images/small/5f/5f7f976c.jpg,6.875684431097698
+blue phone case,literal,4,B07PBTBXR4,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Realme U1 (Transparent),data/ABO/abo-images-small/images/small/b6/b696a864.jpg,6.875684431097698
+blue phone case,literal,5,B07XVP481Z,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Xiaomi Redmi 4 (Transparent),data/ABO/abo-images-small/images/small/35/358fa1d5.jpg,6.705426377246965
+transparent phone case,literal,1,B08562DD6Z,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Realme C3 (Transparent),data/ABO/abo-images-small/images/small/b6/b6637466.jpg,11.018557091407772
+transparent phone case,literal,2,B08562CHHV,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Oppo F15 (Transparent),data/ABO/abo-images-small/images/small/c9/c9815d4b.jpg,11.018557091407772
+transparent phone case,literal,3,B07XVPYKS3,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Oppo A3s (Transparent),data/ABO/abo-images-small/images/small/5f/5f7f976c.jpg,11.018557091407772
+transparent phone case,literal,4,B07PBTBXR4,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Realme U1 (Transparent),data/ABO/abo-images-small/images/small/b6/b696a864.jpg,11.018557091407772
+transparent phone case,literal,5,B07XVP481Z,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Xiaomi Redmi 4 (Transparent),data/ABO/abo-images-small/images/small/35/358fa1d5.jpg,10.745711805178315
+black sandals,literal,1,B06WW6YQZY,SANDAL,find. Amazon Brand Women's Sandals Ruffled Sporty Ankle Strap Black (Black) US 8.5,data/ABO/abo-images-small/images/small/45/45ac4ff4.jpg,7.590223200243052
+black sandals,literal,2,B06XH3MK6C,SANDAL,Amazon Brand - find. Women's Sandals Effy Ankle Strap Black (Black) US 7.5,data/ABO/abo-images-small/images/small/1b/1b8e9641.jpg,7.590223200243052
+black sandals,literal,3,B077VL31H7,SANDAL,"Amazon Brand - find. Women’s Multi-Strap Flat Gladiator Sandals , Black, US 7.5",data/ABO/abo-images-small/images/small/d1/d18deb38.jpg,6.84115061850998
+black sandals,literal,4,B06VWTFSSV,SANDAL,"Amazon Brand - find. Women's Ankle Strap Sandals in Patent Leather with Stiletto Heel, Black (Black), US 8.5",data/ABO/abo-images-small/images/small/d2/d2582230.jpg,6.767104908920642
+black sandals,literal,5,B07JBGVK6J,SANDAL,"Amazon Brand - find. Women's Wedge Heels Sandals Heeled Black, US 8.5",data/ABO/abo-images-small/images/small/f0/f047c9bf.jpg,6.653123760851015
+brown boots,literal,1,B07222BQ9V,BOOT,"find. Men's Zip Classic Worker Boots Ankle, Brown (Tan), US 13",data/ABO/abo-images-small/images/small/b5/b582aa4b.jpg,8.907705876918625
+brown boots,literal,2,B01N4MOYOG,BOOT,Amazon Brand - find. Men's Boots Traveller Lace-Up Brown (Brown) US 11.5,data/ABO/abo-images-small/images/small/1f/1fe68bad.jpg,8.6932698299604
+brown boots,literal,3,B06XC25S22,BOOT,"Amazon Brand - find. Albert, Men’s Chelsea Boots Chelsea Boots, Brown (Brown), US 7",data/ABO/abo-images-small/images/small/af/afb39f69.jpg,8.489183708085024
+brown boots,literal,4,B06XC27L5S,BOOT,"Amazon Brand - find. Albert, Men’s Chelsea Boots Chelsea Boots, Brown (Brown), US 11",data/ABO/abo-images-small/images/small/76/76629992.jpg,8.489183708085024
+brown boots,literal,5,B07255FKTS,BOOT,"find. Amazon Brand Women’s Chelsea Boots in Leather with Flexi-Sole, Brown (Congo), US 6.5",data/ABO/abo-images-small/images/small/5f/5fdc8e6a.jpg,8.294698472782267
+red shoes,literal,1,B071VXFHKG,SHOES,Red WAGON jongens platte sneakers,data/ABO/abo-images-small/images/small/49/493c111d.jpg,9.99708755868485
+red shoes,literal,2,B0728FJ3VL,SHOES,"Red WAGON jongens platte sneakers, 35.5 eu",data/ABO/abo-images-small/images/small/5d/5dc20493.jpg,9.234984848692797
+red shoes,literal,3,B06XGZ72GR,SHOES,"find. Women's 37338 Closed-Toe Heels, Red, 8 us",data/ABO/abo-images-small/images/small/14/14d4c34e.jpg,9.006943034639473
+red shoes,literal,4,B07T7ZFDDC,SHOES,Acteo Men's Red Running Shoes-10 UK (44 EU) (AC1029-Red),data/ABO/abo-images-small/images/small/9e/9ea533b3.jpg,9.006943034639473
+red shoes,literal,5,B07RV4KL8V,SHOES,"find. Freddy Derbys, Red Smooth Plum, 9 US",data/ABO/abo-images-small/images/small/79/79ff3eb2.jpg,8.790223671728443
+dining chair,literal,1,B01CQ4ML1I,CHAIR,"Brand 3 Charlotte Dining Chair H, Kitchen/Dining: Dining Chair",data/ABO/abo-images-small/images/small/ad/ade46d5c.jpg,10.184986298776483
+dining chair,literal,2,B08G1XM7GT,CHAIR,Movian Wendy Dining Chair,data/ABO/abo-images-small/images/small/e6/e67d3fb2.jpg,9.24079323559435
+dining chair,literal,3,B07NY17DT8,CHAIR,"Rivet Clarice Dining Room Kitchen Chair Open Back, 33""H",data/ABO/abo-images-small/images/small/2c/2c6716e2.jpg,8.182918811820914
+dining chair,literal,4,B001BQ3FM2,CHAIR,Pinzon Capitola Fawn and Cosmo Dining Side Chair,data/ABO/abo-images-small/images/small/6f/6f4fc201.jpg,7.742373585520056
+dining chair,literal,5,B0030MHOSG,CHAIR,"Strathwood Falkner Dining Arm Chair Cushion, Set of 2",data/ABO/abo-images-small/images/small/d3/d3b6e47e.jpg,7.742373585520056
+wooden table,literal,1,B07NQ45LCT,HOME_BED_AND_BATH,Amazon Brand - Solimo Cricket Wooden Stumps,data/ABO/abo-images-small/images/small/3a/3ac27738.jpg,8.15704868067395
+wooden table,literal,2,B07VDD5Z6P,HOME_FURNITURE_AND_DECOR,Movian Coffee Table,data/ABO/abo-images-small/images/small/ce/ce90a5c9.jpg,7.7001065774977295
+wooden table,literal,3,B07NQKY2B6,HOME_FURNITURE_AND_DECOR,Rivet Adwin Coffee Table,data/ABO/abo-images-small/images/small/9a/9aad8182.jpg,7.7001065774977295
+wooden table,literal,4,B0744WPXRY,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo 11.25-inch Wooden Wall Clock (Silent Movement, Light Brown Frame)",data/ABO/abo-images-small/images/small/d2/d24ffcf6.jpg,6.707234442499888
+wooden table,literal,5,B000BLFDWS,CHAIR,Strathwood Teak Chaise Lounge With Side Table,data/ABO/abo-images-small/images/small/ed/ede14344.jpg,6.432970649485745
+gray sofa,literal,1,B07GZYY3BJ,CHAIR,"Phoenix Home Kenitra Contemporary Plastic Dining Chair, Earthy Gray",data/ABO/abo-images-small/images/small/b8/b8df1c15.jpg,8.325605197902673
+gray sofa,literal,2,B085554J7Q,CHAIR,"Amazon Brand - Rivet Henrik Modern Open-Back Plastic Dining Chair, 18.5""W, Mild Gray",data/ABO/abo-images-small/images/small/32/32f37fd5.jpg,7.6659068268353225
+gray sofa,literal,3,B07MBFF1LV,HOME_FURNITURE_AND_DECOR,"Amazon Brand – Ravenna Home Classic Solid Wood Media Center, 47""W, Rustic Gray",data/ABO/abo-images-small/images/small/be/be8c80fc.jpg,7.517000151660151
+gray sofa,literal,4,B07HPC4T72,CHAIR,Movian Andre Accent Sofa Yellow,data/ABO/abo-images-small/images/small/26/268cbdf8.jpg,7.38061125923302
+gray sofa,literal,5,B07HPJ9V3J,CHAIR,Movian Andre Accent Sofa Turquoise,data/ABO/abo-images-small/images/small/da/daf1206a.jpg,7.38061125923302
+small crossbody bag,attribute,1,B074CSVG98,HANDBAG,The Fix Leah Triple Zipper Small Crossbody Bag,data/ABO/abo-images-small/images/small/45/45478c5a.jpg,18.1701984638648
+small crossbody bag,attribute,2,B074CTLYRQ,HANDBAG,Amazon Brand - The Fix Leah Triple Zipper Small Crossbody Bag,data/ABO/abo-images-small/images/small/27/27d2b709.jpg,16.58484620788542
+small crossbody bag,attribute,3,B08FB4X8KG,HANDBAG,WindTook Small Crossbody Bag for Women Shoulder Bags Ladies Purses Clutch Bag for Girls Party Outdoor(WT-020 Gray),data/ABO/abo-images-small/images/small/a5/a54eaa20.jpg,15.89573066362469
+small crossbody bag,attribute,4,B08FB1QPRF,HANDBAG,WindTook Small Crossbody Bag for Women Shoulder Bags Ladies Purses Clutch Bag for Girls Party Outdoor(WT-020 Blue),data/ABO/abo-images-small/images/small/ae/ae7c5aa2.jpg,15.89573066362469
+small crossbody bag,attribute,5,B08F9ZWWXP,HANDBAG,WindTook Small Crossbody Bag for Women Shoulder Bags Ladies Purses Clutch Bag for Girls Party Outdoor(WT-020 Black),data/ABO/abo-images-small/images/small/f9/f9bd13ce.jpg,15.89573066362469
+comfortable running shoes,attribute,1,B07T7K3SFY,SHOES,Acteo Men's Grey Running Shoes-6 UK (40 EU) (AC1029-Grey),data/ABO/abo-images-small/images/small/71/719a7e26.jpg,9.63179919879318
+comfortable running shoes,attribute,2,B07T93Q6V5,SHOES,Acteo Men's Navy Running Shoes-8 UK (42 EU) (AC1029-Navy),data/ABO/abo-images-small/images/small/35/35a69ce8.jpg,9.63179919879318
+comfortable running shoes,attribute,3,B07T7K1VKS,SHOES,Acteo Men's Blue Running Shoes-7 UK (41 EU) (AC1029-Blue),data/ABO/abo-images-small/images/small/d3/d30fcb13.jpg,9.63179919879318
+comfortable running shoes,attribute,4,B083C68M2C,SHOES,Acteo Men's Grey Running Shoes-7 UK (41 EU) (AC1046-Grey),data/ABO/abo-images-small/images/small/9c/9ce354ca.jpg,9.63179919879318
+comfortable running shoes,attribute,5,B07T7ZFDC8,SHOES,Acteo Men's Black Running Shoes-10 UK (44 EU) (AC1029-Black),data/ABO/abo-images-small/images/small/95/95e39c2c.jpg,9.63179919879318
+black leather handbag,attribute,1,B078TC2LTX,HANDBAG,"Amazon Brand - The Fix Alexandria Leather Crossbody Bag, black",data/ABO/abo-images-small/images/small/a3/a3ee3ef6.jpg,8.650513179692771
+black leather handbag,attribute,2,B000P2067A,HOME_FURNITURE_AND_DECOR,"Strathwood Brooklyn Leather Ottoman, Black",data/ABO/abo-images-small/images/small/14/14b9d065.jpg,7.059175866395428
+black leather handbag,attribute,3,B000P229ZC,CHAIR,"Strathwood Brooklyn Leather Chaise, Black",data/ABO/abo-images-small/images/small/c0/c0f4b2c8.jpg,7.059175866395428
+black leather handbag,attribute,4,B001BQ8IQA,CHAIR,"Pinzon Kinzie Leather Dining Chair, Black",data/ABO/abo-images-small/images/small/d0/d0d10627.jpg,6.863896525582273
+black leather handbag,attribute,5,B079FVN39Q,BOOT,"find. Women’s Leather Ankle Boots, Black (Black Black), 6 UK",data/ABO/abo-images-small/images/small/38/3827aaa9.jpg,6.505031044188613
+white bed pillows,attribute,1,B01N5QRPO2,HOME_BED_AND_BATH,"AmazonBasics Reversible Microfiber Bed Comforter, Full / Queen, White",data/ABO/abo-images-small/images/small/52/5264db89.jpg,10.39980757835782
+white bed pillows,attribute,2,B01J24OJ9C,HOME_BED_AND_BATH,"AmazonBasics Deluxe Striped Microfiber Bed Sheet Set - Queen, Bright White",data/ABO/abo-images-small/images/small/26/268d7ad9.jpg,9.609041289551985
+white bed pillows,attribute,3,B07HHQG2NL,HOME_BED_AND_BATH,"AmazonBasics Down-Alternative Gusseted Pillows with Microfiber Shell, 2-Pack",data/ABO/abo-images-small/images/small/bc/bcf172fc.jpg,9.602814514199583
+white bed pillows,attribute,4,B07PNGGML8,HOME_FURNITURE_AND_DECOR,"Amazon Marke - Movian Bed Side Table, high Gloss White",data/ABO/abo-images-small/images/small/02/024add0d.jpg,9.13388569535921
+white bed pillows,attribute,5,B0154ASDSQ,HOME_BED_AND_BATH,"AmazonBasics Lightweight Super Soft Easy Care Microfiber Bed Sheet Set with 16"" Deep Pockets - Full, Bright White",data/ABO/abo-images-small/images/small/59/59cd39b1.jpg,8.16902544799756
+navy blue chair,attribute,1,B0160BS4LY,HOME_BED_AND_BATH,AmazonBasics Navy Blue Comforter (Full/Queen) and Navy Blue Sheet Set (Full),data/ABO/abo-images-small/images/small/fb/fb9fbbfc.jpg,12.372437585716913
+navy blue chair,attribute,2,B07W93XQH9,SHOES,"find. Women's #_Loafer-052, Blue Navy, US 6",data/ABO/abo-images-small/images/small/37/371bf0f8.jpg,10.327544625844713
+navy blue chair,attribute,3,B0160BOS6E,HOME_BED_AND_BATH,AmazonBasics Navy Blue Comforter (Full/Queen) and Spa Blue Sheet Set (Queen),data/ABO/abo-images-small/images/small/a5/a5563639.jpg,10.105237726329035
+navy blue chair,attribute,4,B015X2C4VM,HOME_BED_AND_BATH,AmazonBasics Navy Blue Comforter (Full/Queen) and Spa Blue Sheet Set (Full),data/ABO/abo-images-small/images/small/9f/9facecea.jpg,10.105237726329035
+navy blue chair,attribute,5,B07KB1WLZ9,HOME_BED_AND_BATH,"AmazonBasics Premium, Easy-Wash Embroidered Hotel Stitch 120 GSM Sheet Set - Queen, Embroidered Navy Blue",data/ABO/abo-images-small/images/small/c2/c290c2aa.jpg,10.101168914040768
+clear phone case,attribute,1,B0093VF79G,CELLULAR_PHONE_CASE,AmazonBasics Clear Cover Case with Screen Protector for iPhone 5 (Black Rim),data/ABO/abo-images-small/images/small/04/04019b0b.jpg,7.028460950985574
+clear phone case,attribute,2,B08562DD6Z,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Realme C3 (Transparent),data/ABO/abo-images-small/images/small/b6/b6637466.jpg,6.875684431097698
+clear phone case,attribute,3,B08562CHHV,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Oppo F15 (Transparent),data/ABO/abo-images-small/images/small/c9/c9815d4b.jpg,6.875684431097698
+clear phone case,attribute,4,B07XVPYKS3,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Oppo A3s (Transparent),data/ABO/abo-images-small/images/small/5f/5f7f976c.jpg,6.875684431097698
+clear phone case,attribute,5,B07PBTBXR4,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Realme U1 (Transparent),data/ABO/abo-images-small/images/small/b6/b696a864.jpg,6.875684431097698
+waterproof sandals,attribute,1,B07W4QH8H3,SHOES,find. Womens Sana-1w3-045 Open Toe Sandals,data/ABO/abo-images-small/images/small/2f/2fe14e0e.jpg,6.019489977425077
+waterproof sandals,attribute,2,B0866TGVRV,SANDAL,"find. Chorley, Men's Open Toe Sandals",data/ABO/abo-images-small/images/small/4e/4e1a76b2.jpg,6.019489977425077
+waterproof sandals,attribute,3,B083SFKPV4,SANDAL,"Amazon Essentials Baylee, Sandals Homme",data/ABO/abo-images-small/images/small/52/521bd904.jpg,6.019489977425077
+waterproof sandals,attribute,4,B0815NS34C,SANDAL,find. Women's Hurrache Closed Toe Sandals,data/ABO/abo-images-small/images/small/d4/d4253688.jpg,6.019489977425077
+waterproof sandals,attribute,5,B088YTSQMS,HOME,Eono Suction Cup Hooks NO-Drilling & Removable Vacuum Suction Cup Wall Mounted Wall Waterproof for Shower Bathroom & Kitchen Max Hold 5kg White,data/ABO/abo-images-small/images/small/ac/ac047f59.jpg,5.951641281924355
+modern metal furniture,attribute,1,B075YQ46KX,HOME_FURNITURE_AND_DECOR,"Amazon Brand – Rivet Industrial Modern Console Table, 47.25""W, Walnut Wood, Metal",data/ABO/abo-images-small/images/small/f6/f6c27e8c.jpg,11.081993437735267
+modern metal furniture,attribute,2,B01MT4BUTY,CHAIR,"Stone & Beam CDI Furniture TA1033RM - Taburete de Bar Industrial de Estilo clásico con Acabado de Metal en Bruto, con Parte Trasera en X",data/ABO/abo-images-small/images/small/1e/1e903bcb.jpg,10.664876535346139
+modern metal furniture,attribute,3,B0015MLK1U,HOME_FURNITURE_AND_DECOR,Pinzon Bellevue Furniture Collection,data/ABO/abo-images-small/images/small/ba/bacb0023.jpg,8.16881807430162
+modern metal furniture,attribute,4,B0015MNPIG,HOME_FURNITURE_AND_DECOR,Pinzon Capitola Furniture Collection,data/ABO/abo-images-small/images/small/45/45195bea.jpg,7.572203442636957
+modern metal furniture,attribute,5,B001BQTX4Q,HOME_FURNITURE_AND_DECOR,Pinzon Renwick Furniture Collection,data/ABO/abo-images-small/images/small/9b/9b691f6c.jpg,7.572203442636957
+bedroom wall decor,attribute,1,B07HSLK3F2,HOME,Rivet Modern Macramé Plant Hanging Wall Art Decor without Pot - 38 Inch,data/ABO/abo-images-small/images/small/26/265ad975.jpg,12.15688585785282
+bedroom wall decor,attribute,2,B073RLW63K,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo Wall Sticker for Bedroom (Tulip Bliss, Ideal Size on Wall, 140 cm x 120 cm)",data/ABO/abo-images-small/images/small/b2/b2bc7110.jpg,9.15049987191922
+bedroom wall decor,attribute,3,B001BQTU76,HOME_FURNITURE_AND_DECOR,Pinzon Kips Bay Mahogany Bedroom Collection,data/ABO/abo-images-small/images/small/6e/6ec1b397.jpg,8.88851665109067
+bedroom wall decor,attribute,4,B07HD6Y4C7,HOME,Umi. Fleurs Artificielles Mini 3 pièces Fausses Fleurs pour Mariage Home Decor,data/ABO/abo-images-small/images/small/2f/2f6650a5.jpg,7.682579618828623
+bedroom wall decor,attribute,5,B07XYMZC9P,HOME,AmazonBasics Countertop & Wall Organization for Utensils,data/ABO/abo-images-small/images/small/62/627c8661.jpg,5.42011834611575
+large living room sofa,attribute,1,B071J7Q391,HOME_FURNITURE_AND_DECOR,Urban Living AMZ420100BLANCO Linon Living Room Chair,data/ABO/abo-images-small/images/small/87/874f86c4.jpg,14.798076044913389
+large living room sofa,attribute,2,B089Y36KPT,HOME_FURNITURE_AND_DECOR,"UMI. by Amazon Coffee Table, Sofa Table with Storage Shelf for Living Room,Wood Look Furniture,Rustic Brown",data/ABO/abo-images-small/images/small/d3/d30f4d64.jpg,9.94063785519154
+large living room sofa,attribute,3,B07QJXN6WJ,HOME_FURNITURE_AND_DECOR,"Amazon Brand – Stone & Beam Abigail Leather Living Room Chair, 40""W, Saddle Brown",data/ABO/abo-images-small/images/small/1c/1cd6f2c7.jpg,9.114203345024752
+large living room sofa,attribute,4,B07J2R9Y4W,CHAIR,"Amazon Brand – Rivet Brooke Contemporary Mid-Century Modern Tufted Leather Living Room Chair, 35""W, Cognac",data/ABO/abo-images-small/images/small/62/623cc271.jpg,9.114203345024752
+large living room sofa,attribute,5,B07QHYD2KF,HOME_FURNITURE_AND_DECOR,"Amazon Brand – Stone & Beam Abigail Leather Living Room Chair, 40""W, Dark Brown",data/ABO/abo-images-small/images/small/64/64ffb99a.jpg,8.882783829453118
+chair for dining room,functional,1,B07NY17DT8,CHAIR,"Rivet Clarice Dining Room Kitchen Chair Open Back, 33""H",data/ABO/abo-images-small/images/small/2c/2c6716e2.jpg,13.790761854854667
+chair for dining room,functional,2,B07QFRSJDM,CHAIR,"Amazon Brand – Rivet Julie Mid-Century Modern Dining Room Accent Chair with Arms, 32""H, Ink Blue",data/ABO/abo-images-small/images/small/4c/4cb12ff7.jpg,10.847767108109359
+chair for dining room,functional,3,B01CQ4ML1I,CHAIR,"Brand 3 Charlotte Dining Chair H, Kitchen/Dining: Dining Chair",data/ABO/abo-images-small/images/small/ad/ade46d5c.jpg,10.184986298776483
+chair for dining room,functional,4,B07B7B244W,CHAIR,"Amazon Brand – Rivet Allie Leather Industrial Mid-Century Dining Room Kitchen Chair, 33""H, Brown and Black",data/ABO/abo-images-small/images/small/86/86bb70ad.jpg,9.923723224516724
+chair for dining room,functional,5,B08G1XM7GT,CHAIR,Movian Wendy Dining Chair,data/ABO/abo-images-small/images/small/e6/e67d3fb2.jpg,9.24079323559435
+sofa for living room,functional,1,B071J7Q391,HOME_FURNITURE_AND_DECOR,Urban Living AMZ420100BLANCO Linon Living Room Chair,data/ABO/abo-images-small/images/small/87/874f86c4.jpg,14.798076044913389
+sofa for living room,functional,2,B089Y36KPT,HOME_FURNITURE_AND_DECOR,"UMI. by Amazon Coffee Table, Sofa Table with Storage Shelf for Living Room,Wood Look Furniture,Rustic Brown",data/ABO/abo-images-small/images/small/d3/d30f4d64.jpg,11.880518461909517
+sofa for living room,functional,3,B073RLY5GG,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo Wall Sticker for Living Room (Leafy Fence, Ideal Size on Wall: 137 cm x 55cm)",data/ABO/abo-images-small/images/small/7d/7d91432a.jpg,9.559746999253292
+sofa for living room,functional,4,B076VCWR7T,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo Wall Sticker for Living Room (Hanging Gardens, Ideal Size on Wall: 150 x 107 cm)",data/ABO/abo-images-small/images/small/0e/0ea32f17.jpg,9.559746999253292
+sofa for living room,functional,5,B073RLMQ2D,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo Wall Sticker for Living Room (Lamp Post, Ideal Size on Wall, 100 cm x 180 cm)",data/ABO/abo-images-small/images/small/ba/ba99caec.jpg,9.349105191493233
+shoes for running,functional,1,B07T7K3SFY,SHOES,Acteo Men's Grey Running Shoes-6 UK (40 EU) (AC1029-Grey),data/ABO/abo-images-small/images/small/71/719a7e26.jpg,9.63179919879318
+shoes for running,functional,2,B07T93Q6V5,SHOES,Acteo Men's Navy Running Shoes-8 UK (42 EU) (AC1029-Navy),data/ABO/abo-images-small/images/small/35/35a69ce8.jpg,9.63179919879318
+shoes for running,functional,3,B07T7K1VKS,SHOES,Acteo Men's Blue Running Shoes-7 UK (41 EU) (AC1029-Blue),data/ABO/abo-images-small/images/small/d3/d30fcb13.jpg,9.63179919879318
+shoes for running,functional,4,B083C68M2C,SHOES,Acteo Men's Grey Running Shoes-7 UK (41 EU) (AC1046-Grey),data/ABO/abo-images-small/images/small/9c/9ce354ca.jpg,9.63179919879318
+shoes for running,functional,5,B07T7ZFDC8,SHOES,Acteo Men's Black Running Shoes-10 UK (44 EU) (AC1029-Black),data/ABO/abo-images-small/images/small/95/95e39c2c.jpg,9.63179919879318
+phone protection case,functional,1,B01I48LT5O,CELLULAR_PHONE_CASE,AmazonBasics Coque de protection transparente pour iPhone 7,data/ABO/abo-images-small/images/small/6b/6b71bc32.jpg,8.693980960548114
+phone protection case,functional,2,B08562DD6Z,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Realme C3 (Transparent),data/ABO/abo-images-small/images/small/b6/b6637466.jpg,6.875684431097698
+phone protection case,functional,3,B08562CHHV,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Oppo F15 (Transparent),data/ABO/abo-images-small/images/small/c9/c9815d4b.jpg,6.875684431097698
+phone protection case,functional,4,B07XVPYKS3,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Oppo A3s (Transparent),data/ABO/abo-images-small/images/small/5f/5f7f976c.jpg,6.875684431097698
+phone protection case,functional,5,B07PBTBXR4,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Realme U1 (Transparent),data/ABO/abo-images-small/images/small/b6/b696a864.jpg,6.875684431097698
+storage cabinet for bedroom,functional,1,B07DBF3VHW,HOME_FURNITURE_AND_DECOR,"Amazon Brand – Ravenna Home Westly Corner Glass Storage TV Media Entertainment Cabinet Stand, 52""W, White",data/ABO/abo-images-small/images/small/ce/ce702c54.jpg,9.18407240866259
+storage cabinet for bedroom,functional,2,B07DBB76MF,HOME_FURNITURE_AND_DECOR,"Amazon Brand – Ravenna Home Peterson Modern Glass Cabinet Storage TV Media Entertainment Stand, 46""W, White",data/ABO/abo-images-small/images/small/df/dfea69c9.jpg,9.18407240866259
+storage cabinet for bedroom,functional,3,B07DBFFHXP,HOME_FURNITURE_AND_DECOR,"Amazon Brand – Ravenna Home Peterson Modern Glass Cabinet Storage TV Media Entertainment Console Stand, 46""W, Grey",data/ABO/abo-images-small/images/small/52/5255123f.jpg,8.956653260737347
+storage cabinet for bedroom,functional,4,B001BQTU76,HOME_FURNITURE_AND_DECOR,Pinzon Kips Bay Mahogany Bedroom Collection,data/ABO/abo-images-small/images/small/6e/6ec1b397.jpg,8.88851665109067
+storage cabinet for bedroom,functional,5,B085233K9D,HOME_FURNITURE_AND_DECOR,GW-ADANA Shoe cabinet 3524,data/ABO/abo-images-small/images/small/38/38d20488.jpg,8.284895866100912
+decorative lighting for home,functional,1,B00TDCVME4,HOME,"Pinzon by Amazon Decorative Box, 3-Inch, Blue",data/ABO/abo-images-small/images/small/8f/8f72a0f6.jpg,8.422594180631048
+decorative lighting for home,functional,2,B075H8S64D,HOME,"AmazonBasics 1"" Curtain Rod with Round Finials, 36"" to 72"" and Decorative Curtain Holdback, Set of 2, Nickel",data/ABO/abo-images-small/images/small/a8/a80dde69.jpg,6.545525712545724
+decorative lighting for home,functional,3,B075H26GH2,HOME,"AmazonBasics 1"" Curtain Rod with Cap Finials, 72"" to 144"" and Decorative Curtain Holdback, Set of 2, Black",data/ABO/abo-images-small/images/small/cf/cf0020f5.jpg,6.545525712545724
+decorative lighting for home,functional,4,B075H9CWSB,HOME,"AmazonBasics 1"" Curtain Rod with Cap Finials, 72"" to 144"" and Decorative Curtain Holdback, Set of 2, Nickel",data/ABO/abo-images-small/images/small/82/822234da.jpg,6.545525712545724
+decorative lighting for home,functional,5,B075H8GKJW,HOME,"AmazonBasics 1"" Curtain Rod with Cap Finials, 36"" to 72"" and Decorative Curtain Holdback, Set of 2, Nickel",data/ABO/abo-images-small/images/small/59/59a14adf.jpg,6.545525712545724
+bag for everyday use,functional,1,B086WY141C,GROCERY,do not use,data/ABO/abo-images-small/images/small/36/36ea13ff.jpg,10.833256594150928
+bag for everyday use,functional,2,B01LASLKMC,GROCERY,"365 Everyday Value, Russet Potatoes, 5 lb Bag",data/ABO/abo-images-small/images/small/4c/4c0c77bd.jpg,9.814362200120062
+bag for everyday use,functional,3,B08CMC46ZQ,HANDBAG,Iris & Lilly Women's Microfibre Thong_do Not Use,data/ABO/abo-images-small/images/small/09/09574ccb.jpg,8.416960557776388
+bag for everyday use,functional,4,B08FB4X8KG,HANDBAG,WindTook Small Crossbody Bag for Women Shoulder Bags Ladies Purses Clutch Bag for Girls Party Outdoor(WT-020 Gray),data/ABO/abo-images-small/images/small/a5/a54eaa20.jpg,8.187161384983735
+bag for everyday use,functional,5,B08FB1QPRF,HANDBAG,WindTook Small Crossbody Bag for Women Shoulder Bags Ladies Purses Clutch Bag for Girls Party Outdoor(WT-020 Blue),data/ABO/abo-images-small/images/small/ae/ae7c5aa2.jpg,8.187161384983735
+sandals for summer,functional,1,B07Z59JMVQ,SANDAL,Amazon Brand: Find Weave Block Heel Mule Women's Open Sandals,data/ABO/abo-images-small/images/small/81/81442b58.jpg,12.476599875569018
+sandals for summer,functional,2,B00UYL79CM,HOME_BED_AND_BATH,"Pinzon Summer Downquilt, White Duck Down – 6.0 Tog Summer, beyaz, 220 x 240",data/ABO/abo-images-small/images/small/0a/0a83d906.jpg,6.881975264218641
+sandals for summer,functional,3,B07W4QH8H3,SHOES,find. Womens Sana-1w3-045 Open Toe Sandals,data/ABO/abo-images-small/images/small/2f/2fe14e0e.jpg,6.019489977425077
+sandals for summer,functional,4,B0866TGVRV,SANDAL,"find. Chorley, Men's Open Toe Sandals",data/ABO/abo-images-small/images/small/4e/4e1a76b2.jpg,6.019489977425077
+sandals for summer,functional,5,B083SFKPV4,SANDAL,"Amazon Essentials Baylee, Sandals Homme",data/ABO/abo-images-small/images/small/52/521bd904.jpg,6.019489977425077
+furniture for small apartment,functional,1,B0015MLK1U,HOME_FURNITURE_AND_DECOR,Pinzon Bellevue Furniture Collection,data/ABO/abo-images-small/images/small/ba/bacb0023.jpg,8.16881807430162
+furniture for small apartment,functional,2,B08FB4X8KG,HANDBAG,WindTook Small Crossbody Bag for Women Shoulder Bags Ladies Purses Clutch Bag for Girls Party Outdoor(WT-020 Gray),data/ABO/abo-images-small/images/small/a5/a54eaa20.jpg,8.108141595995065
+furniture for small apartment,functional,3,B08FB1QPRF,HANDBAG,WindTook Small Crossbody Bag for Women Shoulder Bags Ladies Purses Clutch Bag for Girls Party Outdoor(WT-020 Blue),data/ABO/abo-images-small/images/small/ae/ae7c5aa2.jpg,8.108141595995065
+furniture for small apartment,functional,4,B08F9ZWWXP,HANDBAG,WindTook Small Crossbody Bag for Women Shoulder Bags Ladies Purses Clutch Bag for Girls Party Outdoor(WT-020 Black),data/ABO/abo-images-small/images/small/f9/f9bd13ce.jpg,8.108141595995065
+furniture for small apartment,functional,5,B0015MNPIG,HOME_FURNITURE_AND_DECOR,Pinzon Capitola Furniture Collection,data/ABO/abo-images-small/images/small/45/45195bea.jpg,7.572203442636957
+wall art for bedroom,functional,1,B07HSLK3F2,HOME,Rivet Modern Macramé Plant Hanging Wall Art Decor without Pot - 38 Inch,data/ABO/abo-images-small/images/small/26/265ad975.jpg,11.02966970224098
+wall art for bedroom,functional,2,B073RLW63K,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo Wall Sticker for Bedroom (Tulip Bliss, Ideal Size on Wall, 140 cm x 120 cm)",data/ABO/abo-images-small/images/small/b2/b2bc7110.jpg,10.828139366059137
+wall art for bedroom,functional,3,B001BQTU76,HOME_FURNITURE_AND_DECOR,Pinzon Kips Bay Mahogany Bedroom Collection,data/ABO/abo-images-small/images/small/6e/6ec1b397.jpg,8.88851665109067
+wall art for bedroom,functional,4,B07XYMZC9P,HOME,AmazonBasics Countertop & Wall Organization for Utensils,data/ABO/abo-images-small/images/small/62/627c8661.jpg,8.043442920132858
+wall art for bedroom,functional,5,B08563DT87,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Designer Multicolor Art Printed Soft Back Case Mobile Cover for Realme C3,data/ABO/abo-images-small/images/small/3b/3be5681b.jpg,7.245792362383311
+cozy bedroom vibe,abstract,1,B07VHT3LT6,SHOES,"Amazon Essentials Cozy Footwear, Noir, 8",data/ABO/abo-images-small/images/small/f6/f6b76ab9.jpg,9.602814514199583
+cozy bedroom vibe,abstract,2,B001BQTU76,HOME_FURNITURE_AND_DECOR,Pinzon Kips Bay Mahogany Bedroom Collection,data/ABO/abo-images-small/images/small/6e/6ec1b397.jpg,8.88851665109067
+cozy bedroom vibe,abstract,3,B0853XYDWC,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Designer Pink Heart Design 3D Printed Hard Back Case Mobile Cover for Lenovo Vibe P1,data/ABO/abo-images-small/images/small/a7/a7e957ff.jpg,6.357443699413971
+cozy bedroom vibe,abstract,4,B073RLW63K,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo Wall Sticker for Bedroom (Tulip Bliss, Ideal Size on Wall, 140 cm x 120 cm)",data/ABO/abo-images-small/images/small/b2/b2bc7110.jpg,5.684285782203301
+cozy bedroom vibe,abstract,5,B08FDVHZ5Q,HOME,"UMI Chenille Microfiber Bath Rug Floor mat for Spa Vanity Shower Super Soft Machine Washable for Bathroom/Kitchen Water Absorbent Anti-Skid Bedroom Area Rugs (21"" x 34"", White and Navy)",data/ABO/abo-images-small/images/small/cd/cd342292.jpg,4.90991872327211
+minimalist workspace,abstract,1,B084978DK5,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Mi Redmi 4A (Transparent) ZC,data/ABO/abo-images-small/images/small/12/12298343.jpg,0.0
+minimalist workspace,abstract,2,B08562DD6Z,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Realme C3 (Transparent),data/ABO/abo-images-small/images/small/b6/b6637466.jpg,0.0
+minimalist workspace,abstract,3,B0093VF79G,CELLULAR_PHONE_CASE,AmazonBasics Clear Cover Case with Screen Protector for iPhone 5 (Black Rim),data/ABO/abo-images-small/images/small/04/04019b0b.jpg,0.0
+minimalist workspace,abstract,4,B08543W5PR,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Designer Pink Flowers UV Printed Soft Back Case Mobile Cover for Micromax Yu Yunique 2,data/ABO/abo-images-small/images/small/3a/3aaf0853.jpg,0.0
+minimalist workspace,abstract,5,B0093VGQY6,CELLULAR_PHONE_CASE,AmazonBasics Protective TPU Case with Screen Protector for iPhone 5 - Smoke,data/ABO/abo-images-small/images/small/00/0066de49.jpg,0.0
+rustic living room,abstract,1,B071J7Q391,HOME_FURNITURE_AND_DECOR,Urban Living AMZ420100BLANCO Linon Living Room Chair,data/ABO/abo-images-small/images/small/87/874f86c4.jpg,14.798076044913389
+rustic living room,abstract,2,B07QJXN6WJ,HOME_FURNITURE_AND_DECOR,"Amazon Brand – Stone & Beam Abigail Leather Living Room Chair, 40""W, Saddle Brown",data/ABO/abo-images-small/images/small/1c/1cd6f2c7.jpg,9.114203345024752
+rustic living room,abstract,3,B07J2R9Y4W,CHAIR,"Amazon Brand – Rivet Brooke Contemporary Mid-Century Modern Tufted Leather Living Room Chair, 35""W, Cognac",data/ABO/abo-images-small/images/small/62/623cc271.jpg,9.114203345024752
+rustic living room,abstract,4,B07QHYD2KF,HOME_FURNITURE_AND_DECOR,"Amazon Brand – Stone & Beam Abigail Leather Living Room Chair, 40""W, Dark Brown",data/ABO/abo-images-small/images/small/64/64ffb99a.jpg,8.882783829453118
+rustic living room,abstract,5,B082QDKRCP,CHAIR,"Amazon Brand – Rivet Bayard Contemporary Leather Living Room Chair with Curved Back and Armrests, 35.5""W, Grey",data/ABO/abo-images-small/images/small/99/994c9ab9.jpg,8.882783829453118
+elegant evening bag,abstract,1,B08FB4X8KG,HANDBAG,WindTook Small Crossbody Bag for Women Shoulder Bags Ladies Purses Clutch Bag for Girls Party Outdoor(WT-020 Gray),data/ABO/abo-images-small/images/small/a5/a54eaa20.jpg,5.453738814303925
+elegant evening bag,abstract,2,B08FB1QPRF,HANDBAG,WindTook Small Crossbody Bag for Women Shoulder Bags Ladies Purses Clutch Bag for Girls Party Outdoor(WT-020 Blue),data/ABO/abo-images-small/images/small/ae/ae7c5aa2.jpg,5.453738814303925
+elegant evening bag,abstract,3,B08F9ZWWXP,HANDBAG,WindTook Small Crossbody Bag for Women Shoulder Bags Ladies Purses Clutch Bag for Girls Party Outdoor(WT-020 Black),data/ABO/abo-images-small/images/small/f9/f9bd13ce.jpg,5.453738814303925
+elegant evening bag,abstract,4,B07HMG2K51,HANDBAG,AmazonBasics Messenger Bag - Grey,data/ABO/abo-images-small/images/small/02/02070037.jpg,5.42520750402647
+elegant evening bag,abstract,5,B08GDF7183,GROCERY,Amazon Go Grocery Paper Bag,data/ABO/abo-images-small/images/small/d5/d50de9e1.jpg,5.234070723384797
+modern office setup,abstract,1,B07TDSQCGH,HOME_BED_AND_BATH,Modern Family Stone & Beam - Set Copripiumino Damascato,data/ABO/abo-images-small/images/small/93/93ca909f.jpg,7.211319968072677
+modern office setup,abstract,2,B084S8V2X3,HOME_FURNITURE_AND_DECOR,Office chest with wheels,data/ABO/abo-images-small/images/small/6c/6c17ee3e.jpg,6.635730559154228
+modern office setup,abstract,3,B07KRSGZZG,HOME_BED_AND_BATH,Modern Family Juego de sábanas de percal de algodón de Piedra & Beam,data/ABO/abo-images-small/images/small/5c/5cdc03ca.jpg,6.628366625530503
+modern office setup,abstract,4,B082Y99ZXY,HOME_FURNITURE_AND_DECOR,AmazonBasics dubbelsidig modern sminkspegel,data/ABO/abo-images-small/images/small/e6/e6512df7.jpg,6.460395667629393
+modern office setup,abstract,5,B07CTJSWSY,HOME_BED_AND_BATH,S&B 300 Percale King Linen,data/ABO/abo-images-small/images/small/66/66100812.jpg,5.988556712888046
+warm neutral home decor,abstract,1,B07HD6Y4C7,HOME,Umi. Fleurs Artificielles Mini 3 pièces Fausses Fleurs pour Mariage Home Decor,data/ABO/abo-images-small/images/small/2f/2f6650a5.jpg,10.681867542994038
+warm neutral home decor,abstract,2,B001R23YG2,CHAIR,"Strathwood St. Thomas Cast Aluminum Chaise Lounge Zippered Cushion, Neutral",data/ABO/abo-images-small/images/small/1c/1c84195e.jpg,10.042050565179503
+warm neutral home decor,abstract,3,B07HSLK3F2,HOME,Rivet Modern Macramé Plant Hanging Wall Art Decor without Pot - 38 Inch,data/ABO/abo-images-small/images/small/26/265ad975.jpg,9.797076873068836
+warm neutral home decor,abstract,4,B0789FXSP4,SANDAL,"206 Collective Amazon Brand Women's Eve Stiletto Heel Dress Sandal-Low Heeled, Neutral Leather, 6.5 B US",data/ABO/abo-images-small/images/small/d3/d3879721.jpg,8.9361239235517
+warm neutral home decor,abstract,5,B0789FXSN6,SANDAL,"206 Collective Amazon Brand Women's Anamarie Stiletto Heel Dress Sandal-High Heeled, Neutral Patent Leather, 6 C/D US",data/ABO/abo-images-small/images/small/a0/a0f55389.jpg,8.619696133724373
+vintage inspired furniture,abstract,1,B078SVW7Q6,HOME,Amazon Brand - Rivet Vintage Book Art Horizontal Feathers 18 x 24-P,data/ABO/abo-images-small/images/small/57/5788ca77.jpg,8.452222263554388
+vintage inspired furniture,abstract,2,B0015MLK1U,HOME_FURNITURE_AND_DECOR,Pinzon Bellevue Furniture Collection,data/ABO/abo-images-small/images/small/ba/bacb0023.jpg,8.16881807430162
+vintage inspired furniture,abstract,3,B0015MNPIG,HOME_FURNITURE_AND_DECOR,Pinzon Capitola Furniture Collection,data/ABO/abo-images-small/images/small/45/45195bea.jpg,7.572203442636957
+vintage inspired furniture,abstract,4,B001BQTX4Q,HOME_FURNITURE_AND_DECOR,Pinzon Renwick Furniture Collection,data/ABO/abo-images-small/images/small/9b/9b691f6c.jpg,7.572203442636957
+vintage inspired furniture,abstract,5,B0015KHTTE,HOME_FURNITURE_AND_DECOR,Pinzon Barkhamstead Furniture Collection,data/ABO/abo-images-small/images/small/25/259e74e5.jpg,7.572203442636957
+calm relaxing bedroom,abstract,1,B001BQTU76,HOME_FURNITURE_AND_DECOR,Pinzon Kips Bay Mahogany Bedroom Collection,data/ABO/abo-images-small/images/small/6e/6ec1b397.jpg,8.88851665109067
+calm relaxing bedroom,abstract,2,B073RLW63K,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo Wall Sticker for Bedroom (Tulip Bliss, Ideal Size on Wall, 140 cm x 120 cm)",data/ABO/abo-images-small/images/small/b2/b2bc7110.jpg,5.684285782203301
+calm relaxing bedroom,abstract,3,B08FDVHZ5Q,HOME,"UMI Chenille Microfiber Bath Rug Floor mat for Spa Vanity Shower Super Soft Machine Washable for Bathroom/Kitchen Water Absorbent Anti-Skid Bedroom Area Rugs (21"" x 34"", White and Navy)",data/ABO/abo-images-small/images/small/cd/cd342292.jpg,4.90991872327211
+calm relaxing bedroom,abstract,4,B084978DK5,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Mi Redmi 4A (Transparent) ZC,data/ABO/abo-images-small/images/small/12/12298343.jpg,0.0
+calm relaxing bedroom,abstract,5,B08562DD6Z,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Realme C3 (Transparent),data/ABO/abo-images-small/images/small/b6/b6637466.jpg,0.0
+playful colorful style,abstract,1,B07XVW5SWH,GROCERY,Happy Belly Restaurant Style Tortilla Chips,data/ABO/abo-images-small/images/small/f5/f5fd1164.jpg,7.409234434189186
+playful colorful style,abstract,2,B07B1LZQBQ,GROCERY,"Mediterranean Style Chicken Wrap, 11.18 oz",data/ABO/abo-images-small/images/small/80/80acdd16.jpg,7.409234434189186
+playful colorful style,abstract,3,B07DWD8HZG,SHOES,find. Men's Hiking Style Hi-Top Suede-Look Trainers,data/ABO/abo-images-small/images/small/46/4631b142.jpg,7.157081584401058
+playful colorful style,abstract,4,B084RRZTXY,GROCERY,Dietz & Watson First Cut New York Style Patrami Brisket,data/ABO/abo-images-small/images/small/df/df32c6cb.jpg,6.299532727649692
+playful colorful style,abstract,5,B074H7KLJ4,GROCERY,"365 Everyday Value, Mild Poblano Cantina Style Salsa, 16 oz",data/ABO/abo-images-small/images/small/8e/8ed6668b.jpg,6.299532727649692
+luxurious fashion accessory,abstract,1,B07XJZBHCH,SHOES,The Drop Nina Lace-up Fashion Sneaker - Fashion-Sneakers Mujer,data/ABO/abo-images-small/images/small/54/546d7794.jpg,6.105971265998635
+luxurious fashion accessory,abstract,2,B000R5H79K,CELLULAR_PHONE_CASE,Rivet The Wrap Fashion Case for Mobile Phones,data/ABO/abo-images-small/images/small/5c/5c4c18c9.jpg,5.917421677060261
+luxurious fashion accessory,abstract,3,B07XG4ZJZH,SHOES,Flavia Women's Grey Fashion Sandals-6 UK (38 EU) (7 US) (FL122/GRY),data/ABO/abo-images-small/images/small/9c/9c707632.jpg,5.740167927251867
+luxurious fashion accessory,abstract,4,B07XG4VFZY,SHOES,Flavia Women's Black Fashion Sandals-5 UK (37 EU) (6 US) (FL109/BLK),data/ABO/abo-images-small/images/small/d6/d64ee7a7.jpg,5.740167927251867
+luxurious fashion accessory,abstract,5,B07XRZ2DQS,SHOES,Flavia Women's Black Fashion Slippers-8 UK (40 EU) (9 US) (FL/245/BLK),data/ABO/abo-images-small/images/small/f9/f9937139.jpg,5.740167927251867

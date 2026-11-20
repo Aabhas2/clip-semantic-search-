@@ -1,0 +1,5 @@
+query_category,bm25_precision_at_5
+abstract,0.5
+attribute,0.7
+functional,0.6
+literal,0.62

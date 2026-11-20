@@ -1,0 +1,61 @@
+query,rank,item_id,product_type,title,score,image_path,relevant
+a black handbag,1,B0767VBGDK,HANDBAG,"The Fix Tiffni Geometric Hard Shell Chain Strap Crossbody Bag, black/metallic",0.33145664911954986,data/ABO/abo-images-small/images/small/c2/c222622e.jpg,1
+a black handbag,2,B07WRJG7RM,HANDBAG,Flavia Women's Handbag (Black),0.327166564740195,data/ABO/abo-images-small/images/small/48/486ab0b7.jpg,1
+a black handbag,3,B07XFWWZKJ,HANDBAG,Nia & Nicole Women's Handbag (Black),0.3249581046972327,data/ABO/abo-images-small/images/small/d6/d63e0cac.jpg,1
+a black handbag,4,B074CSRSPK,HANDBAG,Amazon Brand - The Fix Zoe Studded Metallic Bowler Satchel,0.3225569355422033,data/ABO/abo-images-small/images/small/02/020e71f6.jpg,1
+a black handbag,5,B06XPJ88YV,HANDBAG,Amazon Brand - The Fix Bailee Color Block Top Handle Satchel Bag,0.3213496585219194,data/ABO/abo-images-small/images/small/c3/c348b349.jpg,1
+a blue phone case,1,B082DNQR4W,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Samsung Galaxy M10s / Samsung Galaxy A20 / Samsung Galaxy A30 (Transparent),0.33341003463523333,data/ABO/abo-images-small/images/small/bb/bb646221.jpg,1
+a blue phone case,2,B083P8WX19,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Mobile Cover (Transparent Hard Back & Slim) for Oppo A5 (2020) (Black),0.3138344123008371,data/ABO/abo-images-small/images/small/a9/a9727e87.jpg,1
+a blue phone case,3,B083PB78SW,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Mobile Cover (Transparent Hard Back & Slim) for Mi Redmi Note 8 (Blue),0.3115260416191252,data/ABO/abo-images-small/images/small/a6/a6d1b80e.jpg,1
+a blue phone case,4,B08562DD6Z,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Realme C3 (Transparent),0.30927960855731507,data/ABO/abo-images-small/images/small/b6/b6637466.jpg,1
+a blue phone case,5,B079J6N6PK,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Mobile Cover (Soft & Flexible Back case) for Nokia 6 (Blue),0.3047978565422666,data/ABO/abo-images-small/images/small/90/909c561c.jpg,1
+modern furniture,1,B07HPDV36G,CHAIR,Movian Andre Accent Sofa - Light Grey,0.30525865140389463,data/ABO/abo-images-small/images/small/29/291f3e4f.jpg,1
+modern furniture,2,B07RMZ8B11,HOME_FURNITURE_AND_DECOR,"AmazonBasics - 2-Door 2-Drawer TV Stand, 140 x 40 x 56 cm, Dark Grey",0.30209132223495133,data/ABO/abo-images-small/images/small/4f/4f379ac3.jpg,1
+modern furniture,3,B07HPDV35K,CHAIR,Marca Amazon - Alkove Albert - Butaca de diseño (turquesa),0.29918466658560466,data/ABO/abo-images-small/images/small/0f/0f5bed2f.jpg,1
+modern furniture,4,B001BQKT3K,HOME_FURNITURE_AND_DECOR,Pinzon Cress Collection,0.2981342095271951,data/ABO/abo-images-small/images/small/ba/bac4ce83.jpg,1
+modern furniture,5,B07HPD63BL,CHAIR,"Marchio Amazon - Alkove, sedia decorativa modello Albert, colore grigio chiaro",0.29618994650965613,data/ABO/abo-images-small/images/small/30/30b0b879.jpg,1
+home decor,1,B076VCSYBT,HOME_FURNITURE_AND_DECOR,"డైనింగ్ రూమ్ కోసం Amazon బ్రాండ్ - Solimo గోడ స్టిక్కర్ (ప్రేమతో వండండి, గోడ మీద పట్టే సైజు - 75 cm x 101 cm)",0.2850306290885827,data/ABO/abo-images-small/images/small/13/13f39b07.jpg,1
+home decor,2,B076VG9DNZ,HOME_FURNITURE_AND_DECOR,"Amazon బ్రాండ్ - లివింగ్ రూమ్ కోసం Solimo వాల్ స్టిక్కర్ (బోటానికల్ ఆర్ట్, గోడ మీద అనువైన సైజు: 115 x 120 cm)",0.2745788894938071,data/ABO/abo-images-small/images/small/98/981c0c34.jpg,1
+home decor,3,B076VC332X,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo Wall Sticker for Home (Song of birds, ideal size on wall , 119 cm X 71 cm)",0.2679181550632967,data/ABO/abo-images-small/images/small/c5/c5021f05.jpg,1
+home decor,4,B073RM84DC,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo വീടിനുള്ള വാൾ സ്റ്റിക്കർ (മഞ്ഞ ട്യൂളിപ്പ് ഫാം, ഭിത്തിയിൽ അനുയോജ്യമായ വലുപ്പം, 135 cm X 35 cm), മൾട്ടികളർ",0.2670356433087695,data/ABO/abo-images-small/images/small/df/dfdb6f9e.jpg,1
+home decor,5,B076VKSCY2,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo ലിവിംഗ് റൂമിനുള്ള വാൾ സ്റ്റിക്കർ (പൂക്കൾ പൂക്കൾ, ചുവരിൽ അനുയോജ്യമായ വലുപ്പം - 170 cm x 130 cm)",0.26696615746135666,data/ABO/abo-images-small/images/small/70/707ea328.jpg,1
+comfortable running shoes,1,B07T7ZFDC8,SHOES,Acteo Men's Black Running Shoes-10 UK (44 EU) (AC1029-Black),0.3071144686200879,data/ABO/abo-images-small/images/small/95/95e39c2c.jpg,1
+comfortable running shoes,2,B07YFGR5X3,SHOES,"Concept 3 by Skechers Zapatillas con Cordones Fashion-Sneakers, Lavender Multi, 13 Little Kid",0.3057324671532413,data/ABO/abo-images-small/images/small/37/3711b1f9.jpg,1
+comfortable running shoes,3,B07T93Q6V5,SHOES,Acteo Men's Navy Running Shoes-8 UK (42 EU) (AC1029-Navy),0.3046799365963894,data/ABO/abo-images-small/images/small/35/35a69ce8.jpg,1
+comfortable running shoes,4,B07T7ZFDDC,SHOES,Acteo Men's Red Running Shoes-10 UK (44 EU) (AC1029-Red),0.300991012448496,data/ABO/abo-images-small/images/small/9e/9ea533b3.jpg,1
+comfortable running shoes,5,B082BXT4Y5,SANDAL,"Amazon Essentials Boys' Sandal, Navy, 1 Medium US Big Kid",0.30087899831238185,data/ABO/abo-images-small/images/small/ba/baad1f3f.jpg,0
+a red handbag,1,B07YX8VCV6,HANDBAG,Amazon Brand - Eden & Ivy Women's Handbag (Red),0.3178021120773308,data/ABO/abo-images-small/images/small/0d/0d0a19a2.jpg,1
+a red handbag,2,B083546SD4,HANDBAG,Amazon Brand - Eden & Ivy Women's Sling Bag (Red),0.3153483159347472,data/ABO/abo-images-small/images/small/ec/ec5b35c9.jpg,1
+a red handbag,3,B08352YLZK,HANDBAG,Amazon Brand - Eden & Ivy സ്ത്രീകളുടെ ഹാൻഡ്ബാഗ് (ചുവപ്പ്),0.3140220528817067,data/ABO/abo-images-small/images/small/23/23f2f2e8.jpg,1
+a red handbag,4,B08353CL4T,HANDBAG,Amazon Brand - Eden & Ivy സ്ത്രീകളുടെ ഹാൻഡ്ബാഗ് (ചുവപ്പ്),0.3131725602107094,data/ABO/abo-images-small/images/small/1c/1ce74fdc.jpg,1
+a red handbag,5,B078T9XWPJ,HANDBAG,"Amazon Brand - The Fix Alexandria bolsa cruzada de piel, Alexandria Bolso cruzado de piel, Rojo, Una talla",0.3114179254435155,data/ABO/abo-images-small/images/small/25/252c7f88.jpg,1
+a transparent phone case,1,B082DNQR4W,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Samsung Galaxy M10s / Samsung Galaxy A20 / Samsung Galaxy A30 (Transparent),0.3130958829612253,data/ABO/abo-images-small/images/small/bb/bb646221.jpg,1
+a transparent phone case,2,B083P9S9L9,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Kickstand Mobile Cover (360° Rotating Ring Holder) for Oneplus 7T Pro (Black),0.3106622755921362,data/ABO/abo-images-small/images/small/55/55efd3a2.jpg,1
+a transparent phone case,3,B084978DK5,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Soft & Flexible Back Phone Case for Mi Redmi 4A (Transparent) ZC,0.3099981785899014,data/ABO/abo-images-small/images/small/12/12298343.jpg,1
+a transparent phone case,4,B07FN7LZBC,CELLULAR_PHONE_CASE,Amazon Brand - Solimo Mobile Cover (Hard Back & Black Flexible Bumper) for Huawei Nova Pro (Transparent),0.3068866065458169,data/ABO/abo-images-small/images/small/a6/a6a9c3a8.jpg,1
+a transparent phone case,5,B07XPFVMD3,CELLULAR_PHONE_CASE,AmazonBasics Coque de protection en TPU avec film protecteur d'écran pour iPhone 4 et iPhone 4S Gris fumé,0.30657038395389036,data/ABO/abo-images-small/images/small/e4/e43ab5e0.jpg,1
+a dining chair,1,B0011MU12I,CHAIR,"Pinzon Ellington Wood Back Dining Chair, Dark Brown Vinyl, Java",0.32504192697126477,data/ABO/abo-images-small/images/small/8c/8cfc0b4b.jpg,1
+a dining chair,2,B0011MZHA4,CHAIR,"Pinzon Ellington Dining Chair, Cream Vinyl, Java",0.3230789286056889,data/ABO/abo-images-small/images/small/31/3159fcc7.jpg,1
+a dining chair,3,B001BQ1Q9G,CHAIR,"Pinzon Kinzie Leather Dining Chair, Cream",0.32179542574938114,data/ABO/abo-images-small/images/small/8f/8f53d9db.jpg,1
+a dining chair,4,B001BQ1PWY,CHAIR,"Pinzon Kinzie Leather Dining Chair, Black, Set of 2",0.3196496227145787,data/ABO/abo-images-small/images/small/3f/3f9b85f1.jpg,1
+a dining chair,5,B001BQ8IQA,CHAIR,"Pinzon Kinzie Leather Dining Chair, Black",0.31825920721605805,data/ABO/abo-images-small/images/small/d0/d0d10627.jpg,1
+bedroom decoration,1,B076VG6LGR,HOME_FURNITURE_AND_DECOR,"Amazon ಬ್ರಾಂಡ್ - ಲಿವಿಂಗ್ ರೂಮ್ಗಾಗಿ ಸೊಲಿಮೊ ವಾಲ್ ಸ್ಟಿಕ್ಕರ್ (ಸರೋವರ ಮತ್ತು ಪರ್ವತಗಳು, ಗೋಡೆಯ ಮೇಲಿನ ಪರಿಪೂರ್ಣ ಗಾತ್ರ - 200 cm x 150 cm)",0.3084875418242991,data/ABO/abo-images-small/images/small/a6/a6ecd4fa.jpg,1
+bedroom decoration,2,B076VC332X,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo Wall Sticker for Home (Song of birds, ideal size on wall , 119 cm X 71 cm)",0.2994137331607041,data/ABO/abo-images-small/images/small/c5/c5021f05.jpg,1
+bedroom decoration,3,B076VCWR7T,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo Wall Sticker for Living Room (Hanging Gardens, Ideal Size on Wall: 150 x 107 cm)",0.29744813454104063,data/ABO/abo-images-small/images/small/0e/0ea32f17.jpg,1
+bedroom decoration,4,B076VKSCY2,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo ലിവിംഗ് റൂമിനുള്ള വാൾ സ്റ്റിക്കർ (പൂക്കൾ പൂക്കൾ, ചുവരിൽ അനുയോജ്യമായ വലുപ്പം - 170 cm x 130 cm)",0.29519846413027906,data/ABO/abo-images-small/images/small/70/707ea328.jpg,1
+bedroom decoration,5,B076VCNK9Q,HOME_FURNITURE_AND_DECOR,"Amazon Brand - Solimo ബെഡ് റൂമിനുള്ള വാൾ സ്റ്റിക്കർ ( വായുവിൽ ഉണ്ട്, ചുവരിൽ അനുയോജ്യമായ വലുപ്പം: 128 x 92 cm)",0.2951059139218225,data/ABO/abo-images-small/images/small/cc/cc8ac95a.jpg,1
+black sandals,1,B07MVYLMP4,SANDAL,"206 Collective Amazon Brand Women's Siri Leather Sandal, Black, 6 B US",0.31343578662751914,data/ABO/abo-images-small/images/small/80/80d4e139.jpg,1
+black sandals,2,B07Y5XLJCF,SANDAL,"find. Amazon Brand Sandalias de Piel con Puntera Abierta para Mujer, Negro, 6",0.31145505149555847,data/ABO/abo-images-small/images/small/5b/5bc91e28.jpg,1
+black sandals,3,B06WRV9BF9,SANDAL,Amazon-merk - vinden. Dames Enkelband Tie Up Suede Sandalen,0.3101403302708265,data/ABO/abo-images-small/images/small/72/72b94463.jpg,1
+black sandals,4,B07MHYBGZ4,SANDAL,"206 Collective Women's Sabor Flat Sandal, Black, 13 B US",0.3033304883726903,data/ABO/abo-images-small/images/small/1c/1ca020d0.jpg,1
+black sandals,5,B07HPVH2RL,SANDAL,"find. Block Heel Ankle Strap Sandali Punta Aperta, Nero Black), 36 EU",0.301918465735999,data/ABO/abo-images-small/images/small/d4/d4de1ef4.jpg,1
+a small crossbody bag,1,B0767Y1MQD,HANDBAG,"The Fix Tiffni Geometric Hard Shell Chain Strap Crossbody Bag, pewter metallic",0.31192186102402797,data/ABO/abo-images-small/images/small/d3/d3e60f60.jpg,1
+a small crossbody bag,2,B07XG48XPL,HANDBAG,Amazon Brand - Eden & Ivy Women's Handbag (Dusty Pink),0.3062945771734119,data/ABO/abo-images-small/images/small/11/11dc3857.jpg,1
+a small crossbody bag,3,B072JFB4PT,HANDBAG,"Amazon Brand - The Fix Cora Studded Leather Flat Clutch with Tasseled Zipper, Wine",0.3056159059548514,data/ABO/abo-images-small/images/small/55/5556aab0.jpg,0
+a small crossbody bag,4,B06VTJJ67T,HANDBAG,Amazon Brand - The Fix Kirby Mini Studded Suede Bucket Crossbody Bag,0.3027564341593574,data/ABO/abo-images-small/images/small/17/17859dcd.jpg,1
+a small crossbody bag,5,B0767VBGDK,HANDBAG,"The Fix Tiffni Geometric Hard Shell Chain Strap Crossbody Bag, black/metallic",0.3021133734589499,data/ABO/abo-images-small/images/small/c2/c222622e.jpg,1
+a sofa for a living room,1,B0015KHTTE,HOME_FURNITURE_AND_DECOR,Pinzon Barkhamstead Furniture Collection,0.3197176441749215,data/ABO/abo-images-small/images/small/25/259e74e5.jpg,1
+a sofa for a living room,2,B07LGKY1GY,HOME_FURNITURE_AND_DECOR,"Movian Luiro - Divano angolare Imbottito a Forma di L con Chaise sul Lato Sinistro, 204 x 153 x 86 cm, Poliestere antimacchia, Grigio",0.31316197629919895,data/ABO/abo-images-small/images/small/8a/8a27cf5d.jpg,1
+a sofa for a living room,3,B07BWMSP1R,HOME_FURNITURE_AND_DECOR,"Amazon Brand – Stone & Beam Andover Slipcover Right-Facing L-Shaped Sectional, 124""W, Dove Fabric",0.3131600493941151,data/ABO/abo-images-small/images/small/54/543e0c45.jpg,1
+a sofa for a living room,4,B07BW8QTX1,HOME_FURNITURE_AND_DECOR,"Amazon Brand – Stone & Beam Andover Slipcover Left-Facing U-Shaped Sectional, 134""W, Dove Fabric",0.31137501807519863,data/ABO/abo-images-small/images/small/7d/7d95e9b0.jpg,1
+a sofa for a living room,5,B07L8SZJB3,HOME_FURNITURE_AND_DECOR,"Een merk van Amazon - Movian Kitinen- 3-zits hoekbank, 230 x 158 x 86 cm, grijs",0.3113357900637551,data/ABO/abo-images-small/images/small/f9/f90114b7.jpg,1

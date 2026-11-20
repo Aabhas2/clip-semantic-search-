@@ -1,0 +1,41 @@
+query_category,query,bm25_precision_at_5
+abstract,calm relaxing bedroom,0.6
+abstract,cozy bedroom vibe,0.6
+abstract,elegant evening bag,0.8
+abstract,luxurious fashion accessory,0.2
+abstract,minimalist workspace,0.0
+abstract,modern office setup,0.2
+abstract,playful colorful style,0.2
+abstract,rustic living room,0.8
+abstract,vintage inspired furniture,0.6
+abstract,warm neutral home decor,1.0
+attribute,bedroom wall decor,0.8
+attribute,black leather handbag,0.2
+attribute,clear phone case,1.0
+attribute,comfortable running shoes,1.0
+attribute,large living room sofa,0.4
+attribute,modern metal furniture,0.8
+attribute,navy blue chair,0.0
+attribute,small crossbody bag,1.0
+attribute,waterproof sandals,0.8
+attribute,white bed pillows,1.0
+functional,bag for everyday use,0.4
+functional,chair for dining room,0.8
+functional,decorative lighting for home,0.0
+functional,furniture for small apartment,0.4
+functional,phone protection case,1.0
+functional,sandals for summer,0.8
+functional,shoes for running,1.0
+functional,sofa for living room,0.0
+functional,storage cabinet for bedroom,1.0
+functional,wall art for bedroom,0.6
+literal,black handbag,0.8
+literal,black sandals,1.0
+literal,blue phone case,1.0
+literal,brown boots,1.0
+literal,dining chair,0.6
+literal,gray sofa,0.0
+literal,red handbag,0.0
+literal,red shoes,0.4
+literal,transparent phone case,1.0
+literal,wooden table,0.4
