@@ -1,152 +1,219 @@
 # CLIP Semantic Search
 
-A multimodal semantic search engine for finding relevant images using natural-language queries.
+An end-to-end multimodal semantic image-search demo for finding ABO product images using natural-language queries.
 
-This project uses OpenAI's CLIP model to map images and text into a shared embedding space. Users can search for images using descriptions such as:
+The project uses CLIP to place product images and text in the same 512-dimensional embedding space. FastAPI converts text queries to embeddings, Qdrant performs cosine-similarity retrieval, and a React frontend presents the top matching images.
 
-- `a stylish fashion item`
-- `a cozy vintage outfit`
+## Demo
+
+Local Docker services:
+
+| Service | Address |
+|---|---|
+| React UI | `http://localhost:3000` |
+| FastAPI | `http://localhost:8000` |
+| API documentation | `http://localhost:8000/docs` |
+| Streamlit fallback | `http://localhost:8501` |
+| Qdrant dashboard | `http://localhost:6333/dashboard` |
+
+Example queries:
+
+- `black handbag`
+- `blue phone case`
 - `comfortable running shoes`
-- `a minimalist black handbag`
-
-The system ranks images according to their semantic similarity to the user's query instead of relying only on filenames, tags, or exact keyword matches.
-
-## Project Goals
-
-- Generate image embeddings using CLIP.
-- Convert natural-language queries into text embeddings.
-- Search image embeddings using cosine similarity.
-- Store and retrieve embeddings with Qdrant.
-- Provide a FastAPI backend for search.
-- Build a simple Streamlit frontend.
-- Evaluate retrieval quality using precision@5.
-- Containerize and deploy the application.
+- `cozy bedroom vibe`
+- `modern office setup`
 
 ## Architecture
 
 ```text
-User query
-    ↓
-Streamlit frontend
-    ↓
-FastAPI backend
-    ↓
-CLIP text encoder
-    ↓
-Text embedding
-    ↓
-Qdrant vector search
-    ↓
-Ranked image results
+React
+  -> Nginx
+  -> FastAPI
+  -> CLIP text encoder
+  -> 512-dimensional query vector
+  -> Qdrant
+  -> top-5 product images
 ```
 
-The image ingestion pipeline is:
+Image data:
 
 ```text
-Dataset images
-    ↓
-CLIP image encoder
-    ↓
-Image embeddings
-    ↓
-Qdrant collection
+4,500 ABO images
+  -> CLIP image encoder
+  -> normalized 512-dimensional vectors
+  -> Qdrant collection
 ```
 
-## Technology Stack
+## Benchmark
 
-- Python
+The final 40-query evaluation used separate visual relevance judgments for CLIP and BM25.
+
+| System | Overall Precision@5 |
+|---|---:|
+| CLIP + Qdrant | `0.970` |
+| BM25 over title, product type, brand, and color | `0.605` |
+
+Category breakdown:
+
+| Query category | CLIP | BM25 |
+|---|---:|---:|
+| Literal | `0.98` | `0.62` |
+| Attribute | `0.98` | `0.70` |
+| Functional | `0.96` | `0.60` |
+| Abstract | `0.96` | `0.50` |
+
+Warm Docker benchmark over 100 search requests:
+
+| Metric | Latency |
+|---|---:|
+| Mean | `11.82 ms` |
+| p50 | `9.36 ms` |
+| p95 | `23.13 ms` |
+| p99 | `30.35 ms` |
+
+The latency value is end-to-end HTTP latency from outside Docker and does not include model-loading or container cold-start time.
+
+## Technology
+
+- Python 3.13
 - PyTorch
 - Hugging Face Transformers
-- OpenAI CLIP
-- NumPy
-- Pillow
+- OpenAI CLIP `openai/clip-vit-base-patch32`
+- NumPy and pandas
+- FastAPI and Uvicorn
 - Qdrant
-- FastAPI
+- React, TypeScript, Vite, Nginx
 - Streamlit
-- Docker
+- Docker Compose
+- pytest
 
 ## Project Structure
 
 ```text
-clip-semantic-search/
-├── data/
-│   └── images/
-├── frontend/
-│   └── app.py
-├── notebooks/
-│   └── 01_explore_clip.ipynb
+.
 ├── src/
-│   ├── embedder.py
 │   ├── main.py
+│   ├── config.py
+│   ├── embedder.py
 │   └── vector_store.py
-├── .gitignore
-├── main.py
-├── pyproject.toml
-└── README.md
+├── frontend-react/
+├── frontend/
+├── scripts/
+│   ├── index_qdrant.py
+│   └── benchmark_latency.py
+├── notebooks/
+├── tests/
+├── data/
+│   ├── metadata/
+│   ├── embeddings/
+│   └── evaluation/
+├── docker-compose.yml
+├── Dockerfile.api
+├── Dockerfile.frontend
+└── DEPLOYMENT_GUIDE.md
 ```
 
-## Status
+## Quick Start
 
-This project is under development.
+Clone and enter the repository:
 
-## Planned Features
+```bash
+git clone <repository-url>
+cd clip-semantic-search
+```
 
-- [ ] Create an image dataset pipeline
-- [ ] Generate and persist image embeddings
-- [ ] Implement brute-force similarity search
-- [ ] Integrate Qdrant
-- [ ] Build FastAPI search endpoints
-- [ ] Build the Streamlit interface
-- [ ] Add retrieval evaluation
-- [ ] Dockerize the application
-- [ ] Deploy the application
+Download and extract the ABO small-image archive:
 
-## Installation
+```bash
+mkdir -p data/ABO
+curl --fail --location --retry 3 \
+  --output data/ABO/abo-images-small.tar \
+  https://amazon-berkeley-objects.s3.us-east-1.amazonaws.com/archives/abo-images-small.tar
 
-Install the project dependencies with `uv`:
+tar -xf data/ABO/abo-images-small.tar -C data/ABO
+```
+
+Start the complete Docker stack:
+
+```bash
+docker compose up --build -d
+```
+
+Open the React interface:
+
+```text
+http://localhost:3000
+```
+
+Stop the stack:
+
+```bash
+docker compose down
+```
+
+For all cloning, image-download, public deployment, HTTPS, DNS, backup, update, and troubleshooting commands, see [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md).
+
+## Python Development
+
+Install project dependencies:
 
 ```bash
 uv sync
 ```
 
-Activate the virtual environment if needed:
+Run the API locally:
 
 ```bash
-source .venv/bin/activate
+uv run uvicorn src.main:app --reload
 ```
 
-## Running the Project
-
-The application components will be added as development progresses.
-
-The planned services are:
+Run the Streamlit frontend locally:
 
 ```bash
-# Start the FastAPI backend
-uvicorn src.main:app --reload
+uv run streamlit run frontend/app.py
+```
 
-# Start the Streamlit frontend
-streamlit run frontend/app.py
+Run API tests:
+
+```bash
+uv run pytest
+```
+
+Run the React frontend locally:
+
+```bash
+cd frontend-react
+npm install
+npm run dev
 ```
 
 ## Dataset
 
-The project is intended to use a real product-image dataset. The initial dataset will be a manageable subset suitable for experimentation and local development.
+The project uses the Amazon Berkeley Objects public dataset.
 
-Generated embeddings and local vector database storage should not be committed to the repository.
+The repository includes:
 
-## Limitations
+- the 4,500-record subset manifest
+- precomputed `(4500, 512)` image embeddings
+- embedding metadata
+- evaluation CSV files
 
-CLIP's results may be affected by:
+It does not include the raw ABO image archive or local Qdrant storage. Those must be downloaded or rebuilt as documented in [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md).
 
-- Ambiguous or subjective queries
-- Image quality and composition
-- Dataset domain and diversity
-- Details that are not clearly visible in an image
-- Differences between product images and real-world photographs
+## Known Limitations
 
-The system is intended as a semantic retrieval demonstration rather than a replacement for a carefully labeled production search system.
+- Search quality depends on the limited 4,500-image category subset.
+- Queries outside the dataset domain may return unrelated nearest matches.
+- Dataset and product metadata may contain inaccurate or inconsistent labels.
+- CLIP cosine similarity is a visual/semantic approximation, not a confidence score.
+- The local BM25 baseline searches titles and metadata, not image pixels.
+- The public demo should not be presented as a production recommendation engine.
 
-## License
+## License and Attribution
 
-This project is for educational and portfolio purposes. Dataset usage must comply with the license and terms of the selected dataset.
+The Amazon Berkeley Objects dataset is licensed under Creative Commons Attribution 4.0 International (`CC BY 4.0`).
+
+Credit Amazon.com and the ABO dataset authors listed in `ABO_README.md`. The license text is included in `LICENSE-CC-BY-4.0.txt`.
+
+Project code is for educational and portfolio use.
